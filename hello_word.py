@@ -1,2 +1,3 @@
-print('hello word')
-print(input("Digite seu nome: "))
+
+
+print('Hello Word')
